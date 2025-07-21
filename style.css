@@ -16,7 +16,7 @@ h1, .images{
     margin: 2em auto;
 }
 
-.recipe-card, .title{
+.recipe-card{
     background-color: #83c5be;
 
     text-align: left;
