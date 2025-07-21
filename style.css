@@ -1,0 +1,14 @@
+*{
+    background-color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.scallops,.lasagna,.cake{
+    padding:10px 20px;
+    border: 1px solid white;
+    margin: 10px 100px;
+}
