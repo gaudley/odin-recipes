@@ -5,32 +5,28 @@ body{
     background-color: #83c5be;
 }
 
-h1, .images{
+.home, .scallops, .lasagna, .cake{
+    padding:5px 20px;
+    border: 1px solid #006d77;
+    margin: 10px;
+}
+
+.images{
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 .ingredients, .steps{
-    color: rgb(0, 0, 0);
-    background-color: #edf6f9;
     padding: 2px;
-    border-radius: 10px;
     margin: 2em auto;
 }
 
 .recipe-card{
     background-color: #edf6f9;
-
     text-align: left;
 
     width: 50%;
     margin: 3em auto;
     padding: 3em;
     border-radius: 10px;
-}
-
-.home, .scallops, .lasagna, .cake{
-    padding:5px 20px;
-    border: 1px solid #006d77;
-    margin: 5px 5px;
 }
